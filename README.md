@@ -13,3 +13,4 @@ The file reader class should be optimized for performance and resource utilizati
 
 4. Suppose we are building a game “Street Fighter”. For simplicity assume that a character may have four moves that is kick, punch, roll and jump. Every character has same kick and punch moves, but there would be various pre-defined types of roll and jump (more types can be added in future), and these will change for each fighter as it goes up the levels.<br/>
 
+answers in AnswerKey_DesignPattern.pdf
